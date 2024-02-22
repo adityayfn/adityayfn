@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue & React**
 
-- 👨‍💻 All of my projects are available at [https://aditya-yudha.netlify.app/](https://aditya-yudha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adityayfn.vercel.app/](https://adityayfn.vercel.app/)
 
 - 📫 How to reach me **adhitya.firstian@gmail.com**
 
